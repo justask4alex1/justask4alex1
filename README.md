@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @justask4alex1
-- 👀 I’m interested in Python Language and AWS
-- 🌱 I’m currently learning Python Language
-- 💞️ I’m looking to collaborate on AWS and Python Lang
+- 👀 I’m interested in Python, Ethical Hacking and AWS
+- 🌱 I’m currently learning Full stack and Ethical Hacking
+- 💞️ I’m looking to collaborate on AWS, Full Stack and Ethical Engineering
 - 📫 How to reach me ...
 
 <!---
