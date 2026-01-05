@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @justask4alex1
-- 👀 I’m interested in Python, Ethical Hacking and AWS/Azure
-- 🌱 I’m currently learning Full stack and Ethical Hacking
-- 💞️ I’m looking to collaborate on AWS/Azure, Full Stack and Ethical Engineering
+- 👀 I’m a founder of Techgrid Innovation Limited
 - 📫 How to reach me ...via Skype: justask4alex1
 
 <!---
